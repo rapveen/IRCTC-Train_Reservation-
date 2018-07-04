@@ -1,0 +1,1 @@
+We built a IRCTC replica with all the features like checking availability of train, reservation and printing ticket, check PNR Status with predefined databse. Used XAMPP for server, PHP to create input forms and used MySQL to store entered data in fields. HTML, CSS, JavaScript, Boostrap.
